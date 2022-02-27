@@ -1,6 +1,9 @@
 # Secure your communication online (Chrome, Firefox, etc)
 ### User TOR, Always
 
+Tor for Android; https://play.google.com/store/apps/details?id=org.torproject.torbrowser&hl=en&gl=US
+Tor for iOS; https://apps.apple.com/us/app/onion-browser/id519296448
+
 ## Setup your system for secure end-to-end communication and browsing
  
 1) Download TOR: [Tor Project](https://www.torproject.org/download/) Recommend: Browser Bundle
